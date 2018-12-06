@@ -1,0 +1,25 @@
+.devicelist{width: 1200px;margin: 0 auto;overflow: hidden;}
+.devicelist-filter{margin:20px 0;}
+.devicelist-filter .ant-input-search{margin-right: 10px;}
+.devicelist-table{padding: 50px 26px;border:1px solid #ececec ;background: #fff;}
+.isLend td{background: oldlace;}
+.isLend td:nth-of-type(8){color: rgb(255, 133, 117);}
+.isLimit td{background:#ffeae8;}
+.isLimit td:nth-of-type(8){color: red;}
+.devicelist .ant-pagination {text-align: center;margin-top: 50px;}
+.devicelist-btngroup{float: right;margin-top: -6px;margin-right:6px;cursor: pointer;}
+.devicelist-btngroup .btn{float:left;margin-left:20px;width: 46px;height: 46px;border-radius: 50%;font-size: 20px;text-align: center;line-height: 46px;background:#ccc;color: #fff;position: relative;}
+.devicelist-btngroup .btn-add{background: #57beff;font-size: 30px;line-height: 40px;}
+.devicelist-btngroup .btn-lend{background: #ff9663;}
+.devicelist-btngroup .btn-return{background: #4dfb86;}
+.devicelist-btngroup .isHide{opacity: 0;}
+.btn span{width: 18px;height: 18px;position: absolute;border-radius: 50%;background: #fff;top:-4px ;right: -3px;font-size: 12px;line-height:16px;}
+.btn-lend span{border: 1px solid #ff9663;color: #ff9663; }
+.btn-return span{border: 1px solid #4dfb86;color: #4dfb86; }
+.devicelist .ant-table-thead > tr > th{text-align: center;}
+.devicelist .ant-table-tbody > tr > td{text-align: center;}
+.devicelist-btn .iconfont{color: #57beff;margin:0 2px;cursor: pointer;visibility: hidden;width: 16px;height: 16px;float: left;}
+.ant-table-row:hover .iconfont{visibility: initial;}
+.icon-xiugai{position: relative;}
+.icon-xiugai div{width: 16px;height: 16px;position: absolute;left: 0;top: 0;}
+.icon-xiugai .child-addbtn{position: absolute;left: 0;top: 0;width: 16px;height: 16px;}

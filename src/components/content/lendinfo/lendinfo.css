@@ -1,0 +1,4 @@
+.lendInfo{width: 1200px;margin: 0 auto;padding: 50px 26px;border: 1px solid #ececec;background: #fff;}
+.lendInfo .ant-pagination {text-align: center;margin-top: 50px;}
+.lendInfo .ant-table-thead > tr > th{text-align: center;}
+.lendInfo .ant-table-tbody > tr > td{text-align: center;}

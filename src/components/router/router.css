@@ -1,0 +1,11 @@
+.setRouter{height: 100%;}
+
+.Header{ border-bottom: 1px solid #ececec;}
+.Header ul{width:190px;margin: 0 auto;overflow: hidden;}
+.Header li {float: left;}
+.Header li a{color: #888;font-size: 14px;display:inline-block;width: 95px;text-align: center;line-height: 80px;text-decoration: none;}
+.Header li .isAcitive{border-bottom: 2px solid #2da8ff;}
+
+.Content{height:calc(100% - 163px);background: #f9f9f9;}
+
+.Footer{height: 80px;}
